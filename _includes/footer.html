@@ -3,6 +3,8 @@
   <div class="grid">
     <div class="subscribe" id="subscribe">
       <div class="subscribe__container">
+        <span class="subscribe__title">By Emma, 陈盈</span>
+        <p class="subscribe__text">Tell me a joke.</p>
       </div>
     </div>
 
@@ -10,11 +12,9 @@
   </div>
 </footer>
 
+<!-- {% include contact.html %} -->
 
-{% if paginator.next_page %}
-  <script>
-    var maxPages = parseInt('{{ paginator.total_pages }}');
-  </script>
-{% endif %}
+{% include pagination.html %}
+
 
 <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>

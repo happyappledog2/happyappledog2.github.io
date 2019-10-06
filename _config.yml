@@ -12,7 +12,7 @@ url: ""
 
 
 # Pagination settings
-paginate: 5
+paginate: 10
 
 # pagination:
 #   enabled: true
