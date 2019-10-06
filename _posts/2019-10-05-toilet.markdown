@@ -6,3 +6,4 @@ description:
 image: /assets/images/toilet.png
 ---
 
+![Placeholder](/assets/images/toilet.png)

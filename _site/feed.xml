@@ -5,13 +5,13 @@
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Oct 2019 21:01:39 -0700</pubDate>
-    <lastBuildDate>Sat, 05 Oct 2019 21:01:39 -0700</lastBuildDate>
+    <pubDate>Sat, 05 Oct 2019 21:11:33 -0700</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2019 21:11:33 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>TOILET</title>
-        <description>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/toilet.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Oct 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019/10/05/toilet/</link>
@@ -22,7 +22,7 @@
     
       <item>
         <title>HAIR</title>
-        <description>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/hair.png&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Oct 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2019/10/05/responsibility/</link>

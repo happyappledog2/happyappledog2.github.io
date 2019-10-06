@@ -6,3 +6,4 @@ description:
 image: /assets/images/hair.png
 ---
 
+![Placeholder](/assets/images/hair.png)
