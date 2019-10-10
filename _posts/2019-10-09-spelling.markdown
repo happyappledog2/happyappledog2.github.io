@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SPELLING"
-date: 2019-10-05
+date: 2019-10-09
 description: 
 image: /assets/images/spelling.png
 ---
